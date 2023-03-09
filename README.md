@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m19t12
 - 👀 I’m interested in developing applications
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m working as a full stack software engineer
 
 <!---
 m19t12/m19t12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
